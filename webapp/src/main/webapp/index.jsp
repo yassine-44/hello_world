@@ -31,7 +31,6 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning </h1>
-   <h1> YASSINE KROUT sni 14  </h1>
+   <h1> Thankyou, Happy Learning Yassine KROUT </h1>
   
 </form>
