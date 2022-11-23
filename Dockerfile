@@ -1,4 +1,5 @@
-FROM tomcat:latest
-RUN cp -R  /usr/local/tomcat/webapps.dist/*  /usr/local/tomcat/webapps
-COPY ./*.war /usr/local/tomcat/webapps
+FROM ubuntu:latest 
+WORKDIR /usr/app
+RUN echo " Yassine Krout from inside the docker image "
+
 
